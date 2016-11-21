@@ -1,0 +1,8 @@
+Curl
+sed /start/end/p
+sed タグの切り出し
+sed htmlタグの除去
+tr or sed 改行をカンマに
+下用なゴミの除去
+
+/\<table/,/<\/table>/p
